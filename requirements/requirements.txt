@@ -1,4 +1,4 @@
-dbt-core==1.3.2
+dbt-core==1.6.1
 pytz==2015.7
 sqlfluff==${SQLFLUFF_VERSION}
 sqlfluff-templater-dbt==${SQLFLUFF_VERSION}
