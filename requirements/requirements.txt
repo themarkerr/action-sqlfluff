@@ -1,5 +1,5 @@
 dbt-core==1.9.3
-dbt-bigquery==1.9.3
+dbt-bigquery==1.9.1
 pytz==2025.2
 sqlfluff==${SQLFLUFF_VERSION}
 sqlfluff-templater-dbt==${SQLFLUFF_VERSION}
